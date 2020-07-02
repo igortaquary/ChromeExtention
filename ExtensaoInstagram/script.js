@@ -2,7 +2,7 @@
 let seguidores = []
 let numeroDeRed = 0
 
-automatizar()
+window.onload = automatizar()
 
 function automatizar(){
     let seguidorDiv = document.getElementsByClassName("g47SY")[1]
