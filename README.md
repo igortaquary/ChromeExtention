@@ -8,6 +8,6 @@ Como usar(modo desenvolvedor):
     3 - Ative o "modo desenvolvedor",
   4 - Clique em "carregar sem compactação",
   5 - Selecione a pasta QuemTeSegue;
-  6 - Ative a extensão.
+  6 - Ative a extensão e fixe a extensão no browser.
   
-  7 - Acesse sua pagina do Instagram e espere carregar.
+  7 - Acesse sua pagina do Instagram, clique na extensão e recarrege a página.
